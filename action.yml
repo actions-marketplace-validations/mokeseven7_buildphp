@@ -1,4 +1,4 @@
-name: PHPUnit (php-actions)
+name: PHP Test - Laravel
 description: Run your PHPUnit tests in your Github Actions.
 
 inputs:
@@ -105,5 +105,5 @@ runs:
       shell: bash
 
 branding:
-  icon: 'check-square'
-  color: 'purple'
+  icon: 'terminal'
+  color: 'red'
